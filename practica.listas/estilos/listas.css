@@ -1,0 +1,22 @@
+h1, h3, ul, ol {
+    background-color: gainsboro;
+  }
+
+body {
+    background-image: url("../imagenes/cocina2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+h1 {
+  color: yellowgreen;
+}
+
+h3 {
+  color: blueviolet;
+}
+
+li {
+  color: rgb(31, 13, 5);
+}
