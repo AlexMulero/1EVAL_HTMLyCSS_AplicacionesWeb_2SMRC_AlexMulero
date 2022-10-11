@@ -1,3 +1,25 @@
+* {
+    color: blueviolet;
+}
 h1 {
+    color: aqua;
+    background-color: blue;
+}
+body {
+    background-color: bisque;
+}
+p.parrafoprincipal {
+    color: chocolate;
+}
+#parrafoh3 {
+    color: chartreuse;
+}
+h1 span {
+    color: red;
+}
+h1 span {
     color: yellow;
+}
+h1 span {
+    color: red;
 }
