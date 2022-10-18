@@ -1,0 +1,31 @@
+html {
+    border: 8px solid green;
+}
+
+body {
+    margin: 0px;
+    border-style: solid;
+    border-color: aqua;
+    border-width: 4px;
+    background-color: crimson;
+}
+
+h1 {
+    padding: 1px 5px;
+    margin: 10px;
+    border-style: groove;
+    border-width: 8px;
+    border-color: red;
+    background-color: yellowgreen;
+    color: white;
+}
+
+p {
+    padding: 1px 5px;
+    margin: 10px;
+    font-family: monospace;
+    border: 15px groove;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 10px;
+    border-color: greenyellow lawngreen rgb(68, 212, 68);
+}
