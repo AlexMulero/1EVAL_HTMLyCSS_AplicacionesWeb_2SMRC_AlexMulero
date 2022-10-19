@@ -1,0 +1,16 @@
+/*Autor - Alex Mulero*/
+span.especial1 {
+    color: blue;
+    font-style: oblique;
+}
+
+span.especial2 {
+    color: red;
+}
+
+hr.hr1 {
+    width: 60%;
+    height: 8px;
+    background-color: red;
+    border: blue 3px solid;
+}
