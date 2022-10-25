@@ -1,0 +1,39 @@
+main pre:first-child {
+    color: red;
+}
+a:link {
+    color: orange;
+    background-color: black;
+}
+a:visited {
+    background-color: blue;
+    color: whitesmoke;
+}
+a:hover {
+    background-color: greenyellow;
+    color: aqua;
+}
+.parrafo2:hover {
+    background-color: yellow;
+    color: white;
+}
+a:active {
+    font-size: xx-large;
+}
+input:focus {
+    background-color: green;
+    border: purple 3px double;
+}
+cite:lang(en) {
+    color: blueviolet;
+}
+cite:lang(es) {
+    color: aqua;
+}
+p::first-letter {
+    background-color: white;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    color:blue;
+}
